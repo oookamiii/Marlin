@@ -57,3 +57,8 @@
   #define Z_HARDWARE_SERIAL  MSerial4
   #define E0_HARDWARE_SERIAL MSerial4
 #endif
+
+//
+// Z Probe must be this pins 
+//
+#define Z_MIN_PROBE_PIN    PC14
